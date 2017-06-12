@@ -8,6 +8,8 @@ When applicable, the Interactive Data Exploration, Analysis, and Reporting (IDEA
 
 For each dataset, the links to the sample datasets in the _**Data**_ directory are also provided. 
 
+_**For ease of modifying this report, placeholder links are included in this page, for example a link to dataset 1, but they are just placeholders pointing to a non-existent page. These should be modified to point to the actual location.**_
+
 
 ## Raw Data Sources
 
