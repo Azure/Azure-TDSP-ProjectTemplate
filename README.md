@@ -1,4 +1,4 @@
-# TDSP Project Structure
+# TDSP Project Structure, and Documents and Artifact Templates
 
 This is a general project directory structure for Team Data Science Process developed by Microsoft. It also contains templates for various documents that are recommended as part of executing a data science project when using TDSP. 
 
