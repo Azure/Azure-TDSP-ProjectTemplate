@@ -11,3 +11,5 @@ This is a general project directory structure for Team Data Science Process deve
 3. Location of the data in storage containers in Azure blobs, Azure Data Lake, SQL server etc.
 
 The two documents under Docs/Project, namely the [Charter](./Docs/Project/Charter.md) and [Exit Report](./Docs/Project/Exit%20Report.md) are particularly important to consider. They help to define the project at the start of an engagement, and provide a final report to the customer or client.
+
+**NOTE:** In some projects, e.g. short term proof of principle (PoC) or proof of value (PoV) engagements, it can be relatively time consuming to create and all the recommended documents and artifacts. In that case, at least the Charter and Exit Report should be created and delivered to the customer or client.
