@@ -7,3 +7,5 @@ This is a general project directory structure for Team Data Science Process deve
 1. Data definitions
 2. Why and how raw is converted into processed data
 3. Location of the data in storage containers in Azure blobs, Azure Data Lake, SQL server etc.
+
+The two documents under Docs/Project, namely the [Charter](./Docs/Project/Charter.md) and [Exit Report](./Docs/Project/Exit%20Report.md) are very important to consider. 
