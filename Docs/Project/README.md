@@ -9,4 +9,4 @@ These could be:
 
 In this folder we have templates for project chater and exit report. 
 
-In addition, if you have access to Microsoft Project or Excel, you may use project templates provided in this blog: https://blogs.msdn.microsoft.com/buckwoody/2017/10/24/a-data-science-microsoft-project-template-you-can-use-in-your-solutions/
+In addition, if you have access to Microsoft Project or Excel, you may use project templates provided in this [blog](https://blogs.msdn.microsoft.com/buckwoody/2017/10/24/a-data-science-microsoft-project-template-you-can-use-in-your-solutions).
