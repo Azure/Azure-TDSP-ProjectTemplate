@@ -1,6 +1,6 @@
 # NOTE: SUPERCEDED BY:
 [DSLP (Data Science Lifecycle Process)](https://github.com/dslp/dslp)
-# TODO include callout of what's changed, and why
+# TODO include callout of what's changed TDSP>DSLP, and why
 
 # TDSP Project Structure, and Documents and Artifact Templates
 
