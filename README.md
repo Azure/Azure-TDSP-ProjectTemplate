@@ -1,5 +1,21 @@
-# TODO - INCLUDE NOTE TO
-[DSLP (Data Science Lifecycle Process)](https://github.com/dslp/dslp)
+# Note: The TDSP is no longer supported.
+
+The TDSP has been superceded by the [DSLP (Data Science Lifecycle Process)](https://github.com/dslp/dslp).
+
+The repo template for the DSLP can be found at https://github.com/dslp/dslp-repo-template/.
+
+## Why switch to DSLP?
+
+The DSLP was designed to reflect modern data science workflows and paradigms.  
+
+Because data science is multidiscplinary, we wanted to make it easier for people to collaborate on data science repos, which meant orienting workflows around using issues, pull requests, and a data science friendly branching strategy.
+
+The DSLP also separates project management from the project content itself. In DSLP, all project management and collaboration moves into Issues and Pull requests, which means your repo contains only your code and documentation, not your project management. This makes it easier to enable opt-in workflows and keeps the project from getting stale with outdated project management documents.
+
+There are also some key changes in the directory structure that make it easier to keep your codebase organized as you move from experimentation to production. This includes adding locations for things like environment definitions, pipeline/orchestration code, etc, cloud configuration, etc. It also separates prototyping code (e.g. notebooks) from code that you'll ship to production.
+
+As the field of data science and machine learning evolved, there was a need to adapt workflows to make things easier for teams to get started and move to production. For more details please read the DSLP docs.
+
 
 # TDSP Project Structure, and Documents and Artifact Templates
 
